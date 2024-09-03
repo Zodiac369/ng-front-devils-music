@@ -16,3 +16,9 @@
    - NodeJS 20.11 LTS
    - Angular CLI v17
 
+## Composant Navigation & Library 
+- FontAwsomeIcons 
+- Home
+
+![homepage-nav-icons](/assets/homepage-nav-icons.png)
+
