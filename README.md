@@ -1,6 +1,6 @@
 # Devil's Mussic Projet Angular - Front
 
-## Devil's Music - Spotify A Like 🎸🥁
+## Devil's Music - Spotify-Like 🎸🥁
 
 #### Étapes Majeures de notre projet 🎯
 - Intégration de la sécurité et de l'authentification avec Auth0 via OAuth2.
